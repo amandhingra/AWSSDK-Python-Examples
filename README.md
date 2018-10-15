@@ -1,2 +1,2 @@
-# AWS S3 SDK Examples
-AWS S3 Python examples for Operations with Buckets/Objects using SDK, REST API
+# AWS SDK (boto3) Examples
+AWS SDK Python examples for various AWS Services
