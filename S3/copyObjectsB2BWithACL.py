@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-import sys
-from datetime import datetime
 import logging
+import sys
 
 import boto3
 
